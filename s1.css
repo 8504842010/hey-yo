@@ -1,0 +1,17 @@
+body{
+    background-color: blue;
+}
+h1{
+    text-align: center;
+    margin-top: 5%;
+    font-size: 34px;
+    color: cyan;
+    
+}
+.form{
+    text-align: center;
+}
+.im{
+    text-align: center;
+    margin-top: 10%;
+}
